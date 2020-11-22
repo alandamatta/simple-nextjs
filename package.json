@@ -1,0 +1,25 @@
+{
+  "name": "simple-nextjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alandamatta/simple-nextjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alandamatta/simple-nextjs/issues"
+  },
+  "homepage": "https://github.com/alandamatta/simple-nextjs#readme",
+  "dependencies": {
+    "next": "^10.0.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
