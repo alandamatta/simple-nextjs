@@ -1,8 +1,12 @@
 import React, {useState} from 'react';
+import Link from 'next/link';
+
 const Home = () => {
 	return (
 		<div>
-			This is my Home
+			<Link href="/sobre">
+				<a>Acessar página sobre</a>
+			</Link>
 			<Contador />
 		</div>
 	)
